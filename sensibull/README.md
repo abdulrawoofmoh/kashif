@@ -13,19 +13,19 @@ A Flask-based application designed to track, visualize, and analyze the trading 
 
 ### Main Dashboard
 The entry point of the application, listing all tracked profiles.
-![Dashboard](/Users/vibhu/.gemini/antigravity/brain/20b3fd0e-8f79-4536-9326-9ce2f254206b/sensibull_app_walkthrough_1765520111499.webp)
+![Dashboard](https://github.com/Raahi-Bhushan/trading-algo/blob/main/sensibull/assets/sensibull_app_walkthrough_1765520111499.webp)
 
 ### Daily Activity View
 A detailed timeline showing exactly when changes were detected.
-![Daily View](/Users/vibhu/.gemini/antigravity/brain/20b3fd0e-8f79-4536-9326-9ce2f254206b/sensibull_details_popup_walkthrough_1765520300012.webp)
+![Daily View](https://github.com/Raahi-Bhushan/trading-algo/blob/main/sensibull/assets/sensibull_details_popup_walkthrough_1765520300012.webp)
 
 ### Position Details Popup
 Clicking "View Details" on any timeline entry opens a popup that prioritizes **Recent Changes**. It clearly separates what was just Added, Removed, or Modified before showing the Overall Position.
-![Popup Details](/Users/vibhu/.gemini/antigravity/brain/20b3fd0e-8f79-4536-9326-9ce2f254206b/sensibull_popup_noprice_verification_1765523585229.webp)
+![Popup Details](https://github.com/Raahi-Bhushan/trading-algo/blob/main/sensibull/assets/sensibull_popup_noprice_verification_1765523585229.webp)
 
 ### Daily Change Log
 The **"See All Changes"** button provides a comprehensive log of every trade made during the day, sorted chronologically with the latest on top. This view isolates the *actions* taken without the noise of price fluctuations.
-![Daily Log](/Users/vibhu/.gemini/antigravity/brain/20b3fd0e-8f79-4536-9326-9ce2f254206b/sensibull_log_no_price_verification_retry_1765529636828.webp)
+![Daily Log](https://github.com/Raahi-Bhushan/trading-algo/blob/main/sensibull/assets/sensibull_log_no_price_verification_retry_1765529636828.webp)
 
 ## Value Adds: Understanding Profitable Traders
 
